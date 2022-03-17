@@ -4,6 +4,8 @@
 
 ## 실용주의 프로그래머 The Pragmatic Programmer
 
+<img src="https://user-images.githubusercontent.com/75408145/158797746-325b540f-8899-490f-b013-a90908fa5b15.png" width="500" />
+
 ### [1장 실용주의 철학 A Pragmatic Philosophy](/1-a-pragmaitc-philosophy/overview.md)
 
 - Topic 1 [당신의 인생이다](/1-a-pragmaitc-philosophy/topic1.md)
