@@ -4,15 +4,15 @@
 
 ## 실용주의 프로그래머 The Pragmatic Programmer
 
-### 1장 실용주의 철학 A Pragmatic Philosophy
+### [1장 실용주의 철학 A Pragmatic Philosophy](/1-a-pragmaitc-philosophy/overview.md)
 
-- Topic 1 당신의 인생이다
-- Topic 2 고양이가 내 소스 코드를 삼켰어요
-- Topic 3 소프트웨어 엔트로피
-- Topic 4 돌멩이 수프와 삶은 개구리
-- Topic 5 적당히 괜찮은 소프트웨어
-- Topic 6 지식 포트폴리오
-- Topic 7 소통하라!
+- Topic 1 [당신의 인생이다](/1-a-pragmaitc-philosophy/topic1.md)
+- Topic 2 [고양이가 내 소스 코드를 삼켰어요](/1-a-pragmaitc-philosophy/topic2.md)
+- Topic 3 [소프트웨어 엔트로피](/1-a-pragmaitc-philosophy/topic3.md)
+- Topic 4 [돌멩이 수프와 삶은 개구리](/1-a-pragmaitc-philosophy/topic4.md)
+- Topic 5 [적당히 괜찮은 소프트웨어](/1-a-pragmaitc-philosophy/topic5.md)
+- Topic 6 [지식 포트폴리오](/1-a-pragmaitc-philosophy/topic6.md)
+- Topic 7 [소통하라!](/1-a-pragmaitc-philosophy/topic7.md)
 
 ### 2장 실용주의 접근법 A Pragmatic Approach
 
