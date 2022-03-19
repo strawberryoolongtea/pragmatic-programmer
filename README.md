@@ -18,14 +18,14 @@
 
 ### 2장 실용주의 접근법 A Pragmatic Approach
 
-- Topic 8 좋은 설계의 핵심
-- Topic 9 DRY: 중복의 해악
-- Topic 10 직교성
-- Topic 11 가역성
-- Topic 12 예광탄
-- Topic 13 프로토타입과 포스트잇
-- Topic 14 도메인 언어
-- Topic 15 추정
+- Topic 8 [좋은 설계의 핵심](/2-a-pragmatic-approach/topic8.md)
+- Topic 9 [DRY: 중복의 해악](/2-a-pragmatic-approach/topic9.md)
+- Topic 10 [직교성](/2-a-pragmatic-approach/topic10.md)
+- Topic 11 [가역성](/2-a-pragmatic-approach/topic11.md)
+- Topic 12 [예광탄](/2-a-pragmatic-approach/topic12.md)
+- Topic 13 [프로토타입과 포스트잇](/2-a-pragmatic-approach/topic13.md)
+- Topic 14 [도메인 언어](/2-a-pragmatic-approach/topic14.md)
+- Topic 15 [추정](/2-a-pragmatic-approach/topic15.md)
 
 ### 3장 기본 도구 The Basic Tools
 
