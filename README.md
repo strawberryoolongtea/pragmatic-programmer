@@ -16,7 +16,7 @@
 - Topic 6 [지식 포트폴리오](/1-a-pragmaitc-philosophy/topic6.md)
 - Topic 7 [소통하라!](/1-a-pragmaitc-philosophy/topic7.md)
 
-### 2장 실용주의 접근법 A Pragmatic Approach (22.03.20 ~ 22.03.21)
+### [2장 실용주의 접근법 A Pragmatic Approach](/2-a-pragmatic-approach/overview.md) (22.03.20 ~ 22.03.21)
 
 - Topic 8 [좋은 설계의 핵심](/2-a-pragmatic-approach/topic8.md)
 - Topic 9 [DRY: 중복의 해악](/2-a-pragmatic-approach/topic9.md)
