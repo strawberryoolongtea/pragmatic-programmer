@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/75408145/158797746-325b540f-8899-490f-b013-a90908fa5b15.png" width="500" />
 
-### [1장 실용주의 철학 A Pragmatic Philosophy](/1-a-pragmaitc-philosophy/overview.md)
+### [1장 실용주의 철학 A Pragmatic Philosophy](/1-a-pragmaitc-philosophy/overview.md) (22.03.19)
 
 - Topic 1 [당신의 인생이다](/1-a-pragmaitc-philosophy/topic1.md)
 - Topic 2 [고양이가 내 소스 코드를 삼켰어요](/1-a-pragmaitc-philosophy/topic2.md)
@@ -16,7 +16,7 @@
 - Topic 6 [지식 포트폴리오](/1-a-pragmaitc-philosophy/topic6.md)
 - Topic 7 [소통하라!](/1-a-pragmaitc-philosophy/topic7.md)
 
-### 2장 실용주의 접근법 A Pragmatic Approach
+### 2장 실용주의 접근법 A Pragmatic Approach (22.03.20 ~ 22.03.21)
 
 - Topic 8 [좋은 설계의 핵심](/2-a-pragmatic-approach/topic8.md)
 - Topic 9 [DRY: 중복의 해악](/2-a-pragmatic-approach/topic9.md)
