@@ -2,6 +2,10 @@
 
 #노마드코더 #북클럽 #노개북
 
+## Nomad Coders Missions
+
+- Mission 1 [My Bias Book TIL 3 나의 최애 북틸 3](/missions/mission-1.md) (22.03.22)
+
 ## 실용주의 프로그래머 The Pragmatic Programmer
 
 <img src="https://user-images.githubusercontent.com/75408145/158797746-325b540f-8899-490f-b013-a90908fa5b15.png" width="500" />
